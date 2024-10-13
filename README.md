@@ -12,6 +12,10 @@ The data for this study was acquired from the PPMI database. The tabular data co
 A Late Fusion approach was used to combine the two modalities and build a multi-modal classifier
 ![LateFusion](https://github.com/user-attachments/assets/400e43e8-b1d0-49ca-be6b-8c5a92edcb65)
 
+## Requirements
+If running in a local environment, the following command can be used to install the required packages:
+pip install -r requirements.txt
+
 ## Sections
 - Reading Tabular Data
 - Build and Test a Gradient Descent model to classify Tabular data
