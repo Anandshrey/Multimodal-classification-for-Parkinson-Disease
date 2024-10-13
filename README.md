@@ -12,10 +12,10 @@ A Late Fusion approach was used to combine the two modalities and build a multi-
 ![LateFusion](https://github.com/user-attachments/assets/400e43e8-b1d0-49ca-be6b-8c5a92edcb65)
 
 ## Sections
-### Reading Tabular Data
-### Build and Test a Gradient Descent model to classify Tabular data
-### Read Image Data
-### Build and Test a Vision Transformer (ViT) model to classify Image data
-### Define a function to average the predictions from the two models
-### Make multimodal predictions using the function
-### Evaluate the performance of the two unimodal models and the multimodal model
+- Reading Tabular Data
+- Build and Test a Gradient Descent model to classify Tabular data
+- Read Image Data
+- Build and Test a Vision Transformer (ViT) model to classify Image data
+- Define a function to average the predictions from the two models
+- Make multimodal predictions using the function
+- Evaluate the performance of the two unimodal models and the multimodal model
