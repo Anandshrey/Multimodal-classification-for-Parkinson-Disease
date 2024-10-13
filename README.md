@@ -8,6 +8,8 @@ This study suggests a multi-modal diagnostic paradigm incorporating various data
 ## Dataset
 The data for this study was acquired from the PPMI database. The tabular data consists of UPDRS score totals from the four-part UPDRS assessment for 831 participants. The image data consisted of mid-brain MRI slices for the same participants. 
 
+![MRIimagesample](https://github.com/user-attachments/assets/09e25518-6aa2-4fd2-ab3a-3a98d64c5b5d)
+
 ## Approach
 A Late Fusion approach was used to combine the two modalities and build a multi-modal classifier
 ![LateFusion](https://github.com/user-attachments/assets/400e43e8-b1d0-49ca-be6b-8c5a92edcb65)
